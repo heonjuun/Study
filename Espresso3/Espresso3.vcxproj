@@ -136,6 +136,7 @@
     <ClCompile Include="Programming2.cpp" />
     <ClCompile Include="Programming3.cpp" />
     <ClCompile Include="Programming4.cpp" />
+    <ClCompile Include="Programming5.cpp" />
     <ClCompile Include="ref.cpp" />
     <ClCompile Include="renshu.cpp" />
     <ClCompile Include="renshu2.cpp" />
