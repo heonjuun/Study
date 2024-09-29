@@ -78,5 +78,11 @@
     <ClCompile Include="Programming6.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Clone_1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Programming7.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

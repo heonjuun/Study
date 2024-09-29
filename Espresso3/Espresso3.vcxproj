@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Clone_1.cpp" />
     <ClCompile Include="grade.cpp" />
     <ClCompile Include="matrix.cpp" />
     <ClCompile Include="pointer1.cpp" />
@@ -138,6 +139,7 @@
     <ClCompile Include="Programming4.cpp" />
     <ClCompile Include="Programming5.cpp" />
     <ClCompile Include="Programming6.cpp" />
+    <ClCompile Include="Programming7.cpp" />
     <ClCompile Include="ref.cpp" />
     <ClCompile Include="renshu.cpp" />
     <ClCompile Include="renshu2.cpp" />
