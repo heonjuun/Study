@@ -84,5 +84,8 @@
     <ClCompile Include="Programming7.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="pointerarr.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

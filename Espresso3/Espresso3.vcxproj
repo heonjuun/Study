@@ -133,6 +133,7 @@
     <ClCompile Include="pointer1.cpp" />
     <ClCompile Include="pointer2.cpp" />
     <ClCompile Include="pointer3.cpp" />
+    <ClCompile Include="pointerarr.cpp" />
     <ClCompile Include="Programming1.cpp" />
     <ClCompile Include="Programming2.cpp" />
     <ClCompile Include="Programming3.cpp" />
