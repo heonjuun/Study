@@ -134,6 +134,7 @@
     <ClCompile Include="pointer2.cpp" />
     <ClCompile Include="pointer3.cpp" />
     <ClCompile Include="pointerarr.cpp" />
+    <ClCompile Include="PointerSwap.cpp" />
     <ClCompile Include="Programming1.cpp" />
     <ClCompile Include="Programming2.cpp" />
     <ClCompile Include="Programming3.cpp" />
@@ -141,6 +142,7 @@
     <ClCompile Include="Programming5.cpp" />
     <ClCompile Include="Programming6.cpp" />
     <ClCompile Include="Programming7.cpp" />
+    <ClCompile Include="Programming8.cpp" />
     <ClCompile Include="ref.cpp" />
     <ClCompile Include="renshu.cpp" />
     <ClCompile Include="renshu2.cpp" />
