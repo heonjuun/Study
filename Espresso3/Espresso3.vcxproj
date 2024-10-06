@@ -136,6 +136,7 @@
     <ClCompile Include="pointerarr.cpp" />
     <ClCompile Include="PointerSwap.cpp" />
     <ClCompile Include="Programming1.cpp" />
+    <ClCompile Include="Programming10.cpp" />
     <ClCompile Include="Programming2.cpp" />
     <ClCompile Include="Programming3.cpp" />
     <ClCompile Include="Programming4.cpp" />
