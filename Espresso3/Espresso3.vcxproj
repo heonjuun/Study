@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Clone_1.cpp" />
+    <ClCompile Include="function.cpp" />
     <ClCompile Include="grade.cpp" />
     <ClCompile Include="matrix.cpp" />
     <ClCompile Include="pointer1.cpp" />
