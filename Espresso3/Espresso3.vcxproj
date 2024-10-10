@@ -139,6 +139,7 @@
     <ClCompile Include="Programming1.cpp" />
     <ClCompile Include="Programming10.cpp" />
     <ClCompile Include="Programming11.cpp" />
+    <ClCompile Include="Programming12.cpp" />
     <ClCompile Include="Programming2.cpp" />
     <ClCompile Include="Programming3.cpp" />
     <ClCompile Include="Programming4.cpp" />
