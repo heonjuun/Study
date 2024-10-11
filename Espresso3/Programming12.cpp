@@ -1,18 +1,31 @@
-#include<iostream>
-using namespace std;
-
-int main()
-{
-	char a[100];
-
-	for (int i = 0; i < sizeof(a); i++)
-	{
-		if (a-1 != ".") {
-			a[i] += '.';
-		}
-
-	}
-	
-
-	return 0;
-}
+//#include<iostream>
+//using namespace std;
+//#include<string>
+//
+//int main()
+//{
+//	char s[100];
+//	
+//	cin.getline(s, sizeof(s));
+//						
+//		
+//		if (islower(s[0]))
+//		{			
+//			s[0]=toupper(s[0]);									
+//		}		
+//		int len = strlen(s);
+//		if (s[len-1] != '.')
+//		{
+//			strcat(s, ".");
+//		}
+//		
+//
+//
+//	
+//	
+//	
+//	cout << s;
+//	
+//
+//	return 0;
+//}
