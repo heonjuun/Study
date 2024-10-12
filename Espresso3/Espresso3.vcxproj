@@ -148,6 +148,7 @@
     <ClCompile Include="Programming7.cpp" />
     <ClCompile Include="Programming8.cpp" />
     <ClCompile Include="Programming9.cpp" />
+    <ClCompile Include="Prorgramming13.cpp" />
     <ClCompile Include="ref.cpp" />
     <ClCompile Include="renshu.cpp" />
     <ClCompile Include="renshu2.cpp" />
