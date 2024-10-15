@@ -127,7 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="car0.cpp" />
     <ClCompile Include="hangman.cpp" />
+    <ClCompile Include="point.cpp" />
     <ClCompile Include="string1.cpp" />
     <ClCompile Include="string2.cpp" />
     <ClCompile Include="string3.cpp" />
