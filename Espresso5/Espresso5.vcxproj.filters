@@ -24,5 +24,11 @@
     <ClCompile Include="car2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="employee.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="car3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
