@@ -130,6 +130,7 @@
     <ClCompile Include="car1.cpp" />
     <ClCompile Include="car2.cpp" />
     <ClCompile Include="car3.cpp" />
+    <ClCompile Include="car4.cpp" />
     <ClCompile Include="date.cpp" />
     <ClCompile Include="employee.cpp" />
   </ItemGroup>
