@@ -133,6 +133,7 @@
     <ClCompile Include="car3.cpp" />
     <ClCompile Include="car4.cpp" />
     <ClCompile Include="car5.cpp" />
+    <ClCompile Include="car_race.cpp" />
     <ClCompile Include="date.cpp" />
     <ClCompile Include="employee.cpp" />
     <ClCompile Include="main.cpp" />
