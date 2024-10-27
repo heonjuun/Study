@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bank_account.cpp" />
     <ClCompile Include="car.cpp" />
     <ClCompile Include="car1.cpp" />
     <ClCompile Include="car2.cpp" />
@@ -135,6 +136,7 @@
     <ClCompile Include="car5.cpp" />
     <ClCompile Include="car_race.cpp" />
     <ClCompile Include="date.cpp" />
+    <ClCompile Include="desk_lamp.cpp" />
     <ClCompile Include="employee.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>

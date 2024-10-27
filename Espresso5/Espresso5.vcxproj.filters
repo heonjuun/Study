@@ -45,6 +45,12 @@
     <ClCompile Include="car_race.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="desk_lamp.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bank_account.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="car.h">
