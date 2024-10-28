@@ -139,6 +139,7 @@
     <ClCompile Include="desk_lamp.cpp" />
     <ClCompile Include="employee.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="product.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="car.h" />
