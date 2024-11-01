@@ -142,6 +142,7 @@
     <ClCompile Include="product.cpp" />
     <ClCompile Include="Programming1.cpp" />
     <ClCompile Include="Programming2.cpp" />
+    <ClCompile Include="Programming3.cpp" />
     <ClCompile Include="Programming4.cpp" />
     <ClCompile Include="Time.cpp" />
   </ItemGroup>
