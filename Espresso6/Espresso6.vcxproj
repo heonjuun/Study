@@ -133,6 +133,7 @@
     <ClCompile Include="car5.cpp" />
     <ClCompile Include="car6.cpp" />
     <ClCompile Include="student.cpp" />
+    <ClCompile Include="time.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
