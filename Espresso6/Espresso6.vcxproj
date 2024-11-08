@@ -132,6 +132,7 @@
     <ClCompile Include="car3.cpp" />
     <ClCompile Include="car5.cpp" />
     <ClCompile Include="car6.cpp" />
+    <ClCompile Include="circle.cpp" />
     <ClCompile Include="student.cpp" />
     <ClCompile Include="time.cpp" />
   </ItemGroup>
