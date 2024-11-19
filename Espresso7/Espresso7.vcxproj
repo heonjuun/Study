@@ -130,6 +130,7 @@
     <ClCompile Include="Car.cpp" />
     <ClCompile Include="dynamic_object.cpp" />
     <ClCompile Include="ObjectFuncPointer.cpp" />
+    <ClCompile Include="Object_array.cpp" />
     <ClCompile Include="object_func1.cpp" />
     <ClCompile Include="static.cpp" />
   </ItemGroup>
