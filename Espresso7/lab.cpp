@@ -6,4 +6,6 @@ class Student {
 private:
 	string name;
 	string telephone;
+public:
+	Student();
 };
