@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="alarm_clock.cpp" />
     <ClCompile Include="Car.cpp" />
+    <ClCompile Include="complex.cpp" />
     <ClCompile Include="dynamic_object.cpp" />
     <ClCompile Include="lab.cpp" />
     <ClCompile Include="ObjectFuncPointer.cpp" />
