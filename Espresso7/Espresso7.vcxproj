@@ -136,6 +136,8 @@
     <ClCompile Include="Object_array.cpp" />
     <ClCompile Include="object_array1.cpp" />
     <ClCompile Include="object_func1.cpp" />
+    <ClCompile Include="Programming1.cpp" />
+    <ClCompile Include="sort.cpp" />
     <ClCompile Include="static.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
