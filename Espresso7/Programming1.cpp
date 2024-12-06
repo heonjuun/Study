@@ -1,16 +1,15 @@
-//#include<iostream>
-//using namespace std;
-//class MyWorld 
-//{
-//private:
-//	string name;
-//	
-//
-//public:
-//	
-//};
-//
-//int main()
-//{
-//	return 0;
-//}
+#include<iostream>
+using namespace std;
+class MyWorld {
+	string name;
+	string* frien;
+	int heart;
+public:
+
+	
+};
+
+int main()
+{
+	return 0;
+}
