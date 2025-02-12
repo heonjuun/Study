@@ -130,6 +130,7 @@
     <ClCompile Include="inheri_car1.cpp" />
     <ClCompile Include="inheri_car2.cpp" />
     <ClCompile Include="inheri_child.cpp" />
+    <ClCompile Include="inheri_child2.cpp" />
     <ClCompile Include="inheri_employee.cpp" />
     <ClCompile Include="inheri_shape1.cpp" />
     <ClCompile Include="inheri_shape2.cpp" />
