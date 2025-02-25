@@ -127,11 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="dog.cpp" />
     <ClCompile Include="inheri_car1.cpp" />
     <ClCompile Include="inheri_car2.cpp" />
     <ClCompile Include="inheri_child.cpp" />
     <ClCompile Include="inheri_child2.cpp" />
     <ClCompile Include="inheri_employee.cpp" />
+    <ClCompile Include="inheri_multi.cpp" />
+    <ClCompile Include="inheri_multi2.cpp" />
     <ClCompile Include="inheri_shape1.cpp" />
     <ClCompile Include="inheri_shape2.cpp" />
     <ClCompile Include="inhri_car.cpp" />

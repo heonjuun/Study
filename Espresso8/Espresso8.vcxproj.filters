@@ -39,5 +39,14 @@
     <ClCompile Include="inheri_child2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="inheri_multi.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="inheri_multi2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dog.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
