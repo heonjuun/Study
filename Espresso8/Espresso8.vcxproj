@@ -139,6 +139,7 @@
     <ClCompile Include="inheri_shape1.cpp" />
     <ClCompile Include="inheri_shape2.cpp" />
     <ClCompile Include="inhri_car.cpp" />
+    <ClCompile Include="Student.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
