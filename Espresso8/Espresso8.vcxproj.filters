@@ -57,5 +57,8 @@
     <ClCompile Include="Empl.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="person2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
