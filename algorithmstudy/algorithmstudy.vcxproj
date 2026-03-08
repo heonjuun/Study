@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d62c9a1f-7c9b-4385-baec-e16dd855c68f}</ProjectGuid>
-    <RootNamespace>Espressoo9</RootNamespace>
+    <ProjectGuid>{e8c3a276-a7bf-487a-9c07-5fa502382fc4}</ProjectGuid>
+    <RootNamespace>algorithmstudy</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,10 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="anima1.cpp" />
-    <ClCompile Include="shape.cpp" />
-    <ClCompile Include="shape2.cpp" />
-    <ClCompile Include="Shape3.cpp" />
+    <ClCompile Include="main1.cpp" />
+    <ClCompile Include="main2.cpp" />
+    <ClCompile Include="main3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
